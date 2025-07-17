@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBVFM_gCSPnBLbYy-iRLIPYQBA8ttAxZso',
+    apiKey: 'enter key',
     appId: '1:298823560072:web:dd2af1f95848ea33c2283d',
     messagingSenderId: '298823560072',
     projectId: 'mywallet-6ea35',
